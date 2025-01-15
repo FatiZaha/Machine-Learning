@@ -138,8 +138,8 @@ Ce projet est open source. Vous êtes libre de l'utiliser, le modifier et le dis
 ---
 
 ## Créateurs
-- Nom :
-#### ZAHA Fatima Zahra
-#### GUELBAOUI Hajar
-#### TIRAOUI Doha
+Nom :
+- ZAHA Fatima Zahra
+- GUELBAOUI Hajar
+- TIRAOUI Doha
 
